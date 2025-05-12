@@ -1,0 +1,4 @@
+# swift artifacts on windows
+*.exe
+*.exp
+*.lib
